@@ -29,7 +29,7 @@ We’re early — and we’re open.
 
 - [🔧 Start with our Cairo Compiler](https://github.com/BuildChainLabs/your-compiler-repo)
 - [🗺️ Roadmap coming soon]
-- [📬 Follow us on X/Twitter (@BuildChainLabs)](https://x.com/BuildChainLabs) *(if live)*
+- [📬 Follow us on X/Twitter (@BuildChainLabs)](https://x.com/BuildChainLabs)
 
 ---
 
